@@ -1,0 +1,228 @@
+p {
+    font-family: Circular;
+    font-weight: strong;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+.margin26h {
+    font-family: Circular
+    font-size: 14px;
+    line-height: 1.43;
+    color: rgb(168, 44, 72);
+    max-width: 1600px;
+    padding-left: 40px;
+    padding-right: 40px;
+    background-color: transparent;
+}
+
+.submit_lvs {
+    font-size: large;
+
+}
+.margin1n8 {
+    font-family: Circular
+    font-size: 14px;
+    line-height: 1.43;
+    color: rgb(168, 44, 72);
+    background: #ffffff;;
+    border-radius: 4px;
+    padding: 32px;
+    padding-bottom: 24px;
+    width: 441px;
+    box-shadow: 0 16px 40px rgba(0,0,0,0.12);
+}
+
+.formtitleubz {
+    font-size: 30px;
+    line-height: 36px;
+    letter-spacing: normal;
+    font-family: Circular,-apple-system,BlinkMacSystemFont,Roboto,Helvetica Neue,sans-serif;
+    text-transform: undefined;
+    color: #484848;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    margin: 0px;
+    padding: 0px;
+}
+
+.formtitle14i {
+    color: inherit;
+    font-size: 1em;
+    font-weight: inherit;
+    line-height: inherit;
+    margin: 0px;
+    padding: 0px;
+    display: block;
+}
+
+.mainform {
+    display: block;
+    font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+    font-size: 14px;
+    line-height: 1.43;
+    color: #484848;
+    background-color: #fff;
+    margin: 0;
+    -webkit-font-smoothing: antialiased;
+    
+
+}
+.formsli {
+    background: #ffffff;
+    border-radius: 4px;
+    display: block;
+    font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+    font-size: 14px;
+    line-height: 1.43;
+    color: #484848;
+    background-color: #fff;
+    margin: 0;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+}
+
+.submitmargin {
+    text-align: right;
+    padding-top: 8px;
+    box-sizing: border-box;
+    color:rgb(105, 10, 26)
+}
+
+
+
+
+
+.buttonmargin_lr8 {
+    text-align: right;
+    padding-top: 8px;
+    box-sizing: border-box;
+    color: rgb(121, 2, 45);
+}
+.submit_lvs {
+
+box-sizing: border-box;
+border-radius:4px
+display: inline-block;
+text-align: center;
+background-color: rgb(222, 57, 117);
+font-size:large;
+color: white;
+}
+
+
+
+}
+.submit_ftj{
+    box-sizing: border-box;
+    color: black;
+
+}
+
+body{
+    display: block;
+    font-family: 'Open Sans', sans-serif;
+}
+#div_footer_general {
+
+    margin-left: 200px;
+    margin-top: 10px;
+    margin-bottom:40px;
+    position: relative;
+    display: flex;
+    position: center;
+    background-color: white;
+    height:230px ;
+    width: 400vh;
+    font-weight: bold;
+
+
+}
+.div_footer_aloha {
+    background-color: white;
+    position: relative; 
+    color:   #c2c2a3;
+
+
+}
+.div_footer_discover {
+    background-color: white;
+    position: relative;
+    color:   #c2c2a3;
+}
+
+.div_footer_hospedar{
+    background-color: white;
+    position: relative;
+    color:   #c2c2a3;
+}
+.div_footer_redes {
+    background-color: white;
+    position: relative;
+    color:    #c2c2a3;
+}
+
+.li_footer_title{
+    position: left;
+    list-style-type: none;
+}
+
+.div_footer_aloha li{
+    list-style: none;
+}
+
+.div_footer_discover li{
+    list-style: none;
+}
+.div_footer_hospedar li{
+    list-style: none;
+}
+.div_footer_redes li{
+    list-style: none;
+    margin: 0px 0px 0px 0px;
+}
+#div_footer_redes_2{
+
+margin: 11px 10px 0px 0px;
+}
+
+h4
+    {   
+        font-weight: bold;
+        color:#5a7562;
+    }
+
+#redes img{
+    position:flex;
+}
+
+.div_footer_redes ul{
+
+margin:30px 0px 0px 0px ;
+}
+a{
+    color:inherit;
+    text-decoration: none;
+}
+hr{
+    border-top:10px;
+    color: #ebebe0;
+    
+}
+.copyrigth{
+    margin-left: 240px;
+    color:#adad85;
+}
+
+.span_new{
+    margin: 1px 1px 1px 1px;
+    padding: 0px 2px 2px 2px;
+    color: white;
+    background-color: #5a7562;
+    border-radius: 5px;
+}
+
